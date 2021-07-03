@@ -10,7 +10,7 @@ import image4 from "./img/img4.png";
 
 
 const contentStyle = {
-    height: '400px',
+    height: '500px',
     color: '#fff',
     lineHeight: '160px',
     textAlign: 'center',

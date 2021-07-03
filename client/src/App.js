@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div className="m-15">
+      <div className="m-15 Slider_wrap">
         <Slider />
       </div>
     </div>
