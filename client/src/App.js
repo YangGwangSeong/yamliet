@@ -1,13 +1,13 @@
-import logo from './logo.svg';
+import React from "react";
+import Slider from "./Slider";
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-        <h1>Hi yamliet!.</h1>
-      </header>
+      <div className="m-15">
+        <Slider />
+      </div>
     </div>
   );
 }
