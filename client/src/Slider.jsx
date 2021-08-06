@@ -8,7 +8,9 @@ import image2 from "./img/img2.jpg";
 import image3 from "./img/img3.jpg";
 import image4 from "./img/img4_2.png";
 import image5 from "./img/img5.png";
-
+import image6 from "./img/img6.jpg";
+import image7 from "./img/img7.jpg";
+import image8 from "./img/img8.png";
 const contentStyle = {
     height: '500px',
     color: '#fff',
@@ -35,6 +37,15 @@ function Slider(){
             </div>
             <div>
                 <img alt="image5" src={image5} className="photo" style={contentStyle}></img>
+            </div>
+            <div>
+                <img alt="image5" src={image6} className="photo" style={contentStyle}></img>
+            </div>
+            <div>
+                <img alt="image5" src={image7} className="photo" style={contentStyle}></img>
+            </div>
+            <div>
+                <img alt="image5" src={image8} className="photo" style={contentStyle}></img>
             </div>
         </Carousel>
     );
