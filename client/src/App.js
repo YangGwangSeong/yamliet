@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <div class="Title_wrap p-15">
+      <div className="Title_wrap p-15">
         <Title />
       </div>
       <div className="p-15 Slider_wrap">
