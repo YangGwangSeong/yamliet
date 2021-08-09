@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yamliet/static/css/main.7f976236.chunk.css",
-    "main.js": "/yamliet/static/js/main.4cf1c196.chunk.js",
-    "main.js.map": "/yamliet/static/js/main.4cf1c196.chunk.js.map",
+    "main.js": "/yamliet/static/js/main.d4286571.chunk.js",
+    "main.js.map": "/yamliet/static/js/main.d4286571.chunk.js.map",
     "runtime-main.js": "/yamliet/static/js/runtime-main.e0e470c1.js",
     "runtime-main.js.map": "/yamliet/static/js/runtime-main.e0e470c1.js.map",
     "static/css/2.ba8a8a05.chunk.css": "/yamliet/static/css/2.ba8a8a05.chunk.css",
@@ -11,6 +11,8 @@
     "static/js/3.2f6efced.chunk.js": "/yamliet/static/js/3.2f6efced.chunk.js",
     "static/js/3.2f6efced.chunk.js.map": "/yamliet/static/js/3.2f6efced.chunk.js.map",
     "index.html": "/yamliet/index.html",
+    "service-worker.js": "/yamliet/service-worker.js",
+    "service-worker.js.map": "/yamliet/service-worker.js.map",
     "static/css/2.ba8a8a05.chunk.css.map": "/yamliet/static/css/2.ba8a8a05.chunk.css.map",
     "static/css/main.7f976236.chunk.css.map": "/yamliet/static/css/main.7f976236.chunk.css.map",
     "static/js/2.ace6649d.chunk.js.LICENSE.txt": "/yamliet/static/js/2.ace6649d.chunk.js.LICENSE.txt",
@@ -28,6 +30,6 @@
     "static/css/2.ba8a8a05.chunk.css",
     "static/js/2.ace6649d.chunk.js",
     "static/css/main.7f976236.chunk.css",
-    "static/js/main.4cf1c196.chunk.js"
+    "static/js/main.d4286571.chunk.js"
   ]
 }
