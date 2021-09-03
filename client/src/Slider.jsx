@@ -11,6 +11,7 @@ import image5 from "./img/img5.png";
 import image6 from "./img/img6.jpg";
 import image7 from "./img/img7.jpg";
 import image8 from "./img/img8.png";
+import image9 from "./img/img9.png";
 const contentStyle = {
     height: '500px',
     color: '#fff',
@@ -23,6 +24,9 @@ function Slider(){
 
     return(
         <Carousel autoplay >
+            <div>
+                <img alt="image9" src={image9} className="photo" style={contentStyle}></img>
+            </div>
             <div>
                 <img alt="image1" src={image1} className="photo" style={contentStyle}></img>
             </div>
