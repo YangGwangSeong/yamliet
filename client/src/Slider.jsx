@@ -28,10 +28,10 @@ function Slider(){
                 <img alt="image9" src={image9} className="photo" style={contentStyle}></img>
             </div>
             <div>
-                <img alt="image1" src={image1} className="photo" style={contentStyle}></img>
+                <img alt="image2" src={image2} className="photo" style={contentStyle}></img>
             </div>
             <div>
-                <img alt="image2" src={image2} className="photo" style={contentStyle}></img>
+                <img alt="image1" src={image1} className="photo" style={contentStyle}></img>
             </div>
             <div>
                 <img alt="image3" src={image3} className="photo" style={contentStyle}></img>
