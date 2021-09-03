@@ -11,7 +11,7 @@ import image5 from "./img/img5.png";
 import image6 from "./img/img6.jpg";
 import image7 from "./img/img7.jpg";
 import image8 from "./img/img8.png";
-import image9 from "./img/img9.png";
+import image9 from "./img/img9.jpg";
 const contentStyle = {
     height: '500px',
     color: '#fff',
