@@ -21,7 +21,7 @@ function Title(){
         // </div>
     <div className="Slider_wrap">
         <Menu>
-            <Menu.Item><Link to="/">Slider</Link></Menu.Item>
+            <Menu.Item><Link to="/">Slide</Link></Menu.Item>
             <Menu.Item><Link to="/Deck">Deck</Link></Menu.Item>
         </Menu>
     </div>
