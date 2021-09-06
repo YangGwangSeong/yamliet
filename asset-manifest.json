@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yamliet/static/css/main.9a25bb7f.chunk.css",
-    "main.js": "/yamliet/static/js/main.24138750.chunk.js",
-    "main.js.map": "/yamliet/static/js/main.24138750.chunk.js.map",
+    "main.js": "/yamliet/static/js/main.c57d0e83.chunk.js",
+    "main.js.map": "/yamliet/static/js/main.c57d0e83.chunk.js.map",
     "runtime-main.js": "/yamliet/static/js/runtime-main.4fc8c84a.js",
     "runtime-main.js.map": "/yamliet/static/js/runtime-main.4fc8c84a.js.map",
     "static/css/2.ba8a8a05.chunk.css": "/yamliet/static/css/2.ba8a8a05.chunk.css",
@@ -31,6 +31,6 @@
     "static/css/2.ba8a8a05.chunk.css",
     "static/js/2.d8bd7aec.chunk.js",
     "static/css/main.9a25bb7f.chunk.css",
-    "static/js/main.24138750.chunk.js"
+    "static/js/main.c57d0e83.chunk.js"
   ]
 }
