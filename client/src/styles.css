@@ -27,7 +27,7 @@
   .test > div {
     position: absolute;
     width: 100vw;
-    height : calc(100vh - 20vh);
+    height : calc(100vh - 15vh);
     will-change: transform;
     display: flex;
     /* align-items: center; */
