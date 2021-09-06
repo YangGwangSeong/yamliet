@@ -1,7 +1,13 @@
 import React from "react";
+import { Route } from 'react-router-dom';
 import Slider from "./Slider";
 import Title from "./Title";
+
+import Deck from "./Deck";
 import './App.css';
+
+//npm install react-router-dom
+//npm install react-spring
 
 function App() {
   return (
@@ -10,7 +16,10 @@ function App() {
         <Title />
       </div>
       <div className="p-15 Slider_wrap">
-        <Slider />
+        <div>
+          <Route path="/" exact={true} component={Slider} />
+          <Route path="/Deck" component={Deck} />
+        </div>
       </div>
     </div>
   );
