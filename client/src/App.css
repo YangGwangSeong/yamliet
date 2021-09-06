@@ -31,6 +31,10 @@
   }
 }
 
+.Title_Wrap{
+  height : 20vh;
+}
+
 body{
   background: lightblue;
 }
