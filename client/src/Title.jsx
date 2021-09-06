@@ -19,10 +19,12 @@ function Title(){
         //         </li>
         //     </ul>
         // </div>
+    <div className="Slider_wrap">
         <Menu>
             <Menu.Item><Link to="/">홈</Link></Menu.Item>
             <Menu.Item><Link to="/Deck">소개</Link></Menu.Item>
         </Menu>
+    </div>
     )
 }
 

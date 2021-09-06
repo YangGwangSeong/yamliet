@@ -37,12 +37,12 @@
   
   .test > div > div {
     background-color: white;
-    background-size: auto 85%;
+    background-size: 95% 85%;
     background-repeat: no-repeat;
     background-position: center center;
     width: 45vh;
     max-width: 300px;
-    height: 85vh;
+    height: 75vh;
     max-height: 570px;
     will-change: transform;
     border-radius: 10px;

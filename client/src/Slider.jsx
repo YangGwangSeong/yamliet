@@ -23,6 +23,7 @@ const contentStyle = {
 function Slider(){
 
     return(
+    <div className="Slider_wrap">
         <Carousel autoplay >
             <div>
                 <img alt="image9" src={image9} className="photo" style={contentStyle}></img>
@@ -52,6 +53,7 @@ function Slider(){
                 <img alt="image5" src={image8} className="photo" style={contentStyle}></img>
             </div>
         </Carousel>
+    </div>
     );
 }
 
