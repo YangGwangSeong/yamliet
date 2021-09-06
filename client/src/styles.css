@@ -30,7 +30,7 @@
     height: 100vh;
     will-change: transform;
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     justify-content: center;
     touch-action: none;
   }
