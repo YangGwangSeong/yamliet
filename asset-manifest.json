@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/yamliet/static/css/main.7f976236.chunk.css",
-    "main.js": "/yamliet/static/js/main.be4daf84.chunk.js",
-    "main.js.map": "/yamliet/static/js/main.be4daf84.chunk.js.map",
-    "runtime-main.js": "/yamliet/static/js/runtime-main.e0e470c1.js",
-    "runtime-main.js.map": "/yamliet/static/js/runtime-main.e0e470c1.js.map",
+    "main.css": "/yamliet/static/css/main.2a6532c8.chunk.css",
+    "main.js": "/yamliet/static/js/main.9e3b46c1.chunk.js",
+    "main.js.map": "/yamliet/static/js/main.9e3b46c1.chunk.js.map",
+    "runtime-main.js": "/yamliet/static/js/runtime-main.4fc8c84a.js",
+    "runtime-main.js.map": "/yamliet/static/js/runtime-main.4fc8c84a.js.map",
     "static/css/2.ba8a8a05.chunk.css": "/yamliet/static/css/2.ba8a8a05.chunk.css",
-    "static/js/2.ace6649d.chunk.js": "/yamliet/static/js/2.ace6649d.chunk.js",
-    "static/js/2.ace6649d.chunk.js.map": "/yamliet/static/js/2.ace6649d.chunk.js.map",
-    "static/js/3.2f6efced.chunk.js": "/yamliet/static/js/3.2f6efced.chunk.js",
-    "static/js/3.2f6efced.chunk.js.map": "/yamliet/static/js/3.2f6efced.chunk.js.map",
+    "static/js/2.d8bd7aec.chunk.js": "/yamliet/static/js/2.d8bd7aec.chunk.js",
+    "static/js/2.d8bd7aec.chunk.js.map": "/yamliet/static/js/2.d8bd7aec.chunk.js.map",
+    "static/js/3.bc952b4a.chunk.js": "/yamliet/static/js/3.bc952b4a.chunk.js",
+    "static/js/3.bc952b4a.chunk.js.map": "/yamliet/static/js/3.bc952b4a.chunk.js.map",
     "index.html": "/yamliet/index.html",
     "service-worker.js": "/yamliet/service-worker.js",
     "service-worker.js.map": "/yamliet/service-worker.js.map",
     "static/css/2.ba8a8a05.chunk.css.map": "/yamliet/static/css/2.ba8a8a05.chunk.css.map",
-    "static/css/main.7f976236.chunk.css.map": "/yamliet/static/css/main.7f976236.chunk.css.map",
-    "static/js/2.ace6649d.chunk.js.LICENSE.txt": "/yamliet/static/js/2.ace6649d.chunk.js.LICENSE.txt",
+    "static/css/main.2a6532c8.chunk.css.map": "/yamliet/static/css/main.2a6532c8.chunk.css.map",
+    "static/js/2.d8bd7aec.chunk.js.LICENSE.txt": "/yamliet/static/js/2.d8bd7aec.chunk.js.LICENSE.txt",
     "static/media/img2.93cf6035.jpg": "/yamliet/static/media/img2.93cf6035.jpg",
     "static/media/img3.83b89d19.jpg": "/yamliet/static/media/img3.83b89d19.jpg",
     "static/media/img4_2.c68a2095.png": "/yamliet/static/media/img4_2.c68a2095.png",
@@ -27,10 +27,10 @@
     "static/media/img_1.bebe361f.jpg": "/yamliet/static/media/img_1.bebe361f.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0e470c1.js",
+    "static/js/runtime-main.4fc8c84a.js",
     "static/css/2.ba8a8a05.chunk.css",
-    "static/js/2.ace6649d.chunk.js",
-    "static/css/main.7f976236.chunk.css",
-    "static/js/main.be4daf84.chunk.js"
+    "static/js/2.d8bd7aec.chunk.js",
+    "static/css/main.2a6532c8.chunk.css",
+    "static/js/main.9e3b46c1.chunk.js"
   ]
 }
