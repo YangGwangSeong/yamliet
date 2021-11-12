@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yamliet/static/css/main.22ad0eca.chunk.css",
-    "main.js": "/yamliet/static/js/main.aca8534b.chunk.js",
-    "main.js.map": "/yamliet/static/js/main.aca8534b.chunk.js.map",
+    "main.js": "/yamliet/static/js/main.a9a4fc13.chunk.js",
+    "main.js.map": "/yamliet/static/js/main.a9a4fc13.chunk.js.map",
     "runtime-main.js": "/yamliet/static/js/runtime-main.4fc8c84a.js",
     "runtime-main.js.map": "/yamliet/static/js/runtime-main.4fc8c84a.js.map",
     "static/css/2.ba8a8a05.chunk.css": "/yamliet/static/css/2.ba8a8a05.chunk.css",
-    "static/js/2.d8bd7aec.chunk.js": "/yamliet/static/js/2.d8bd7aec.chunk.js",
-    "static/js/2.d8bd7aec.chunk.js.map": "/yamliet/static/js/2.d8bd7aec.chunk.js.map",
+    "static/js/2.e5a19021.chunk.js": "/yamliet/static/js/2.e5a19021.chunk.js",
+    "static/js/2.e5a19021.chunk.js.map": "/yamliet/static/js/2.e5a19021.chunk.js.map",
     "static/js/3.bc952b4a.chunk.js": "/yamliet/static/js/3.bc952b4a.chunk.js",
     "static/js/3.bc952b4a.chunk.js.map": "/yamliet/static/js/3.bc952b4a.chunk.js.map",
     "index.html": "/yamliet/index.html",
@@ -15,7 +15,16 @@
     "service-worker.js.map": "/yamliet/service-worker.js.map",
     "static/css/2.ba8a8a05.chunk.css.map": "/yamliet/static/css/2.ba8a8a05.chunk.css.map",
     "static/css/main.22ad0eca.chunk.css.map": "/yamliet/static/css/main.22ad0eca.chunk.css.map",
-    "static/js/2.d8bd7aec.chunk.js.LICENSE.txt": "/yamliet/static/js/2.d8bd7aec.chunk.js.LICENSE.txt",
+    "static/js/2.e5a19021.chunk.js.LICENSE.txt": "/yamliet/static/js/2.e5a19021.chunk.js.LICENSE.txt",
+    "static/media/img10.8d7821ef.jpg": "/yamliet/static/media/img10.8d7821ef.jpg",
+    "static/media/img11.41d498ea.jpg": "/yamliet/static/media/img11.41d498ea.jpg",
+    "static/media/img12.36c6e43f.png": "/yamliet/static/media/img12.36c6e43f.png",
+    "static/media/img13.8239354d.jpg": "/yamliet/static/media/img13.8239354d.jpg",
+    "static/media/img14.659e76a2.png": "/yamliet/static/media/img14.659e76a2.png",
+    "static/media/img15.48eecc3f.jpg": "/yamliet/static/media/img15.48eecc3f.jpg",
+    "static/media/img16.6b5ec567.jpg": "/yamliet/static/media/img16.6b5ec567.jpg",
+    "static/media/img17.340dce13.jpg": "/yamliet/static/media/img17.340dce13.jpg",
+    "static/media/img18.fb7ce1e8.jpg": "/yamliet/static/media/img18.fb7ce1e8.jpg",
     "static/media/img2.93cf6035.jpg": "/yamliet/static/media/img2.93cf6035.jpg",
     "static/media/img3.83b89d19.jpg": "/yamliet/static/media/img3.83b89d19.jpg",
     "static/media/img4_2.c68a2095.png": "/yamliet/static/media/img4_2.c68a2095.png",
@@ -24,13 +33,14 @@
     "static/media/img7.78ce16d2.jpg": "/yamliet/static/media/img7.78ce16d2.jpg",
     "static/media/img8.e5bf07bf.png": "/yamliet/static/media/img8.e5bf07bf.png",
     "static/media/img9.00c9eb79.jpg": "/yamliet/static/media/img9.00c9eb79.jpg",
-    "static/media/img_1.bebe361f.jpg": "/yamliet/static/media/img_1.bebe361f.jpg"
+    "static/media/img_1.bebe361f.jpg": "/yamliet/static/media/img_1.bebe361f.jpg",
+    "static/media/vedeo1.cf525d8e.mp4": "/yamliet/static/media/vedeo1.cf525d8e.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.4fc8c84a.js",
     "static/css/2.ba8a8a05.chunk.css",
-    "static/js/2.d8bd7aec.chunk.js",
+    "static/js/2.e5a19021.chunk.js",
     "static/css/main.22ad0eca.chunk.css",
-    "static/js/main.aca8534b.chunk.js"
+    "static/js/main.a9a4fc13.chunk.js"
   ]
 }
